@@ -1,0 +1,14 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord music bot ready to deploy on Render.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "distube": "^4.1.0",
+    "dotenv": "^16.0.3"
+  }
+}
